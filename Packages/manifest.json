@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.cyanilux.shadergraph-customlighting": "https://github.com/Cyanilux/URP_ShaderGraphCustomLighting.git",
     "com.unity.cinemachine": "2.10.4",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.inputsystem": "1.14.2",
